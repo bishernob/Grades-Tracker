@@ -1,0 +1,67 @@
+
+
+header{
+    background-color: #181818;
+    width: 100%;
+    height: auto;
+    font-size: 40px;
+}
+
+header h2{
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+label{
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+.Subjects_form{
+    padding: 7%;
+    margin: 10%;
+    position:absolute;
+    top: 3%;
+    background-color: #7B68EE;
+    height: 5%;
+    width: 5%;
+}
+
+.div_result_table{
+    position: absolute;
+    background-color:#7B68EE;
+    left: 30%;
+    top: 3%;
+    height: 5%;
+    width: 25%;
+    padding: 10%;
+    margin: 10%;
+}
+
+.results_table{
+
+    height: 100%;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+table tr {
+    border: thin 1px white;
+}
+th{
+    background-color: #181818;
+    color: honeydew;
+    text-align: center;
+}
+td{
+
+    background-color: grey;
+    text-align: center;
+
+}
+
